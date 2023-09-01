@@ -1,0 +1,54 @@
+.tindent{
+  text-indent: 320px;
+  text-align: justify;
+}
+
+.card-body p{
+  text-indent: 0;
+}
+
+.modalzintex{
+  z-index: 9;
+}
+
+.image img{
+  width: 150px;
+  height: 200px;
+}
+.hed{
+  width:98%;
+}
+.imgbody{
+  height: 200px;
+}
+.imgtext{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.imgtext p{
+  margin-bottom: 0px;
+}
+.hedpad{
+  margin-bottom: 100px;
+}
+.offcanvaheading{
+  width: 215px;
+}
+.indent{
+  text-indent: 60px;
+}
+.offtindent{
+  text-indent: 120px;
+}
+.modelz{
+  width: 100%;
+}
+.offcanvascontent{
+  width: 100%;
+  text-align: justify;
+  padding: 2px;
+}
+.disable :nth-child(odd){
+  z-index:1051;
+}

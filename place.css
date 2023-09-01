@@ -1,0 +1,22 @@
+.top{
+    width: 100%;
+    
+}
+.top img{
+    width: 100%;
+    height: 400px;
+}
+.int{
+    text-indent: 50px;
+}
+.placeimg1{
+    width: 100%;
+    height: 220px;
+    background-image: cover;
+    background-position: cover;
+   
+    
+}
+.hedpar{
+    margin-bottom: 130px;
+}

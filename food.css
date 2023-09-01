@@ -1,0 +1,31 @@
+img{
+    width: 220px;
+    height: 220px;
+    margin: 10px;
+}
+.outerbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    width: 450px;
+    height: 450px;
+    box-shadow: rgba(14, 30, 37, 0.9) 0px 2px 4px 0px, rgba(14, 30, 37, 0.9) 0px 2px 16px 0px;
+    border-radius: 40px;
+    padding: 20px;
+}
+.box p{
+    margin-top: 30px;
+}
+.indent{
+    text-indent: 50px;
+    text-align: justify;
+}
+.hed{
+    margin-top: 100px !important;
+
+}
+.bhed{
+    margin-bottom: 100px !important;
+}
